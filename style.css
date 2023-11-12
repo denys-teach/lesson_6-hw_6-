@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 10px solid black;
+  height: 75px;
+  width: 75px;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.black {
+  background-color: black;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.w300 {
+  width: 300px;
+}
+
+.w150 {
+  width: 150px;
+}
+
+.w100 {
+  width: 100px;
+}
+
+.w50 {
+  width: 50px;
+}
+
+.w30 {
+  width: 30px;
+}
+
+.h300 {
+  height: 300px;
+}
+
+.h150 {
+  height: 150px;
+}
+
+.h50 {
+  height: 50px;
+}
+
+.h30 {
+  height: 30px;
+}
